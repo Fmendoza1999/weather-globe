@@ -1,0 +1,9 @@
+{
+  "name": "weather-globe",
+  "version": "1.0.0",
+  "description": "weather globe project",
+  "main": "index.html",
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
