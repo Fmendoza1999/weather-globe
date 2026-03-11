@@ -1,0 +1,12 @@
+{
+  "name": "weather-globe",
+  "version": "1.0.0",
+  "description": "Weather globe web project",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
